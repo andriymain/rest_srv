@@ -28,5 +28,6 @@ public class Test2 {
 		//bbbbbbbbb
 		int a = 8;
 		int b = 16;
+		int c = 24;
 	}
 }
