@@ -11,6 +11,7 @@ public class Test2 {
 	private String branch8 = "bug-777 - 3";
 	private String branch5 = "bug-123 - master";
 	private String branch10 = "bug-777 - 4";
+	private String branch11 = "bug-777 - 5";
 
 
 	public String getStr() {
