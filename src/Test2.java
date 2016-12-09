@@ -6,6 +6,7 @@ public class Test2 {
 	private String branch3 = "bug-123 - 3 master";
 	private String branch4 = "bug-123 - 4 master";
 	private String branch5 = "bug-777 - 1";
+	private String branch6 = "bug-777 - 2";
 
 	public String getStr() {
 		return str;
