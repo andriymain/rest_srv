@@ -13,4 +13,8 @@ public class Test2 {
 	public void setStr(String str) {
 		this.str = str;
 	}
+	
+	public void iNeedThisMethodInMyBranch() {
+		//aaaaaaaaaaaaaa
+	}
 }
