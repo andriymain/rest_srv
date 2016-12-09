@@ -27,5 +27,6 @@ public class Test2 {
 	public void magicMethod() {
 		//bbbbbbbbb
 		int a = 8;
+		int b = 16;
 	}
 }
