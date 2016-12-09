@@ -17,4 +17,8 @@ public class Test2 {
 	public void iNeedThisMethodInMyBranch() {
 		//aaaaaaaaaaaaaa
 	}
+	
+	public void newMthod() {
+		//bbbbbbbbb
+	}
 }
