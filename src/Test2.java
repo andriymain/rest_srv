@@ -36,4 +36,8 @@ public class Test2 {
 		int b = 16;
 		int c = 24;
 	}
+	
+	private void add() {
+		//aaaaaaaaaaaaa
+	}
 }
