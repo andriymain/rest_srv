@@ -1,17 +1,8 @@
 
 public class Test2 {
 	private String str;
-	private String branch = "bug-123 master";
-	private String branch2 = "bug-123 - 2 master";
-	private String branch3 = "bug-123 - 3 master";
-	private String branch4 = "bug-123 - 4 master";
-	private String branch9 = "bug-777 - 1";
-	private String branch6 = "bug-777 - 2";
-	private String branch7 = "bug-777 - 3";
-	private String branch8 = "bug-777 - 3";
-	private String branch5 = "bug-123 - master";
-	private String branch10 = "bug-777 - 4";
-	private String branch11 = "bug-777 - 5";
+	private String branch = "bug-1000";
+
 
 
 	public String getStr() {
