@@ -4,6 +4,7 @@ public class Test2 {
 	private String branch = "bug-1000";
 	private String branch2 = "bug-1000";
 	private String branch3 = "bug-1000";
+	private String branch4 = "bug-1000";
 
 
 
