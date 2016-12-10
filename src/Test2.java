@@ -3,6 +3,7 @@ public class Test2 {
 	private String str;
 	private String branch = "bug-1000";
 	private String branch2 = "bug-1000";
+	private String branch3 = "bug-1000";
 
 
 
