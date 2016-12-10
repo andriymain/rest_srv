@@ -40,4 +40,8 @@ public class Test2 {
 	private void add() {
 		//aaaaaaaaaaaaa
 	}
+	
+	private void add2() {
+		//aaaaaaaaaaaaa
+	}
 }
